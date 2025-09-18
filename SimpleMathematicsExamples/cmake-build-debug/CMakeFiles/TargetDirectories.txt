@@ -1,0 +1,3 @@
+/home/Sziku/CLionProjects/SimpleMathematicsExamples/cmake-build-debug/CMakeFiles/SimpleMathematicsExamples.dir
+/home/Sziku/CLionProjects/SimpleMathematicsExamples/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/Sziku/CLionProjects/SimpleMathematicsExamples/cmake-build-debug/CMakeFiles/rebuild_cache.dir
